@@ -1,5 +1,5 @@
-# NAME: HITHESHHWARAN A R
-# REG.NO: 212224040118
+# NAME: SHYAM R
+# REG.NO: 212223040200
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
